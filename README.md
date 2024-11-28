@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [AtliQ Hospitality Analysis](https://github.com/DasguptaAbhi/AtliQ-Hospitality-Analysis) | AtliQ Hospitality Analysis is a comprehensive data analytics solution designed to revolutionize decision-making in the hospitality industry, with a primary focus on Atliq Grands.| [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2ZiZGY3NzEtYzY5Zi00NDc2LWE5NjUtZWEyMDE0MjBhYzE5IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9) |
+|[AtliQ Hospitality Analysis](https://github.com/DasguptaAbhi/AtliQ-Hospitality-Analysis) | AtliQ Hospitality Analysis is a comprehensive data analytics solution designed to revolutionize decision-making in the hospitality industry, with a primary focus on Atliq Grands.| [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2ZiZGY3NzEtYzY5Zi00NDc2LWE5NjUtZWEyMDE0MjBhYzE5IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9) |
 
 
 ***
