@@ -4,6 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 - [SQL](#sql)
+- [Excel](#excel)
 - [Python](#python)
 - [Power BI](#powerbi)
 
@@ -14,6 +15,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | [ITC Stock Market Data Analysis](https://github.com/DasguptaAbhi/ITC-Stock-Market-Data-Analysis-) | Data analysis, data cleaning, data transformation | This project aims to analyze ITC's stock market data, including metrics like daily price changes, moving averages, monthly aggregates, trading volumes, turnovers, and deliverable volumes. The report provides actionable insights for stakeholders using SQL-based data preparation and Power BI visualizations| 
  
 ***
+
+# Excel
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| [Coffee Sales Analysis ](https://github.com/DasguptaAbhi/Coffee-Sales-Analysis) | Data analysis, data cleaning, data transformation | The primary goal of this project was to analyze coffee sales data to understand sales trends, customer demographics, and product performance. By merging information from the "Orders," "Product," and "Customer" sheets, insights can be derived that foster better decision-making and targeted marketing strategies| 
+ 
+***
+
 
 # Python
 
